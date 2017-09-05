@@ -28,7 +28,7 @@ PS.
 1. I am not responsible if you brick your laptop.
 2. Usually I do provide support to anyone, but due to workload I will only answer to educated questions.
 This is NOT the place to learn about Bios Modding. Instead there are plenty of excellent fora and webpages
-where I got my info as well.
+where I got my info as well. My favorite is https://www.bios-mods.com/
 
 Extra info:
 
