@@ -47,7 +47,7 @@ G701VIAS_304_V2
 
 G701VIAS_304_V2.rom, has additionally all Raid options unlocked. Through these options you can configure what type of raid you need (Raid 0, 1, 5, 10). I tried to completely disable Raid by keeping Sata Controller enabled and disable all raid configurations. My native Linux installation did not boot and a live usb Kali 2017-1 didn't recognised the disk either.
 
-So far, the only solution seems to be to disable Sata.
+So far, the only way to install Linux on G701VI, seems to be to disable SATA Controller.
 
 Anyone interested, can experiment with these settings and comment.
 
