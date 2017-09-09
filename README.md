@@ -43,4 +43,11 @@ If the only message is about older Bios version, proceed updating with the AFUWI
 
 
 
+G701VIAS_304_V2
+
+G701VIAS_304_V2.rom, has additionally all Raid options unlocked. Through these options you can configure what type of raid you need (Raid 0, 1, 5, 10). I tried to completely disable Raid by keeping Sata Controller enabled and disable all raid configurations, but my native Linux installation did not boot. 
+It did boot GRUB though, but failed to recognise the disk. That does not mean nesessarily that the Raid is not disabled.
+By changing the storage controller settings the disk's UID could have changed and it is just GRUB that is looking for the wrong device. I will try to test.
+Anyone interested, can experiment with these settings and comment.
+
 
